@@ -1,1 +1,3 @@
-##This respository is for learning Machine Learning. 
+# Let's learn Machine Learning.
+
+## Iris classification example
